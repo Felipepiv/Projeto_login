@@ -12,10 +12,6 @@ Projeto criado na aula da disciplina de programação Front-End, na Unicesumar, 
 - `Funcionalidade 1`: Pagina de login com email e senha
 - `Funcionalidade 2`: Incrementação do FAQ ao projeto
 
-### Como os usuários podem utilizá-lo
-
-- Pode ser usado pelo usuario inserindo suas informações como email e senha
-
 ### Ferramentas utilizadas
 
 - HTML5
@@ -23,6 +19,13 @@ Projeto criado na aula da disciplina de programação Front-End, na Unicesumar, 
 - Bootstrap5
 - Git
 
+### Comandos git
+
+- git add = adiciona arquivos específico
+- git commit -m = usado para registrar mudanças no seu projeto
+- git push = usado para enviar o conteúdo de um repositório local para um repositório remoto
+
 ### Autor
 
+(https://www.linkedin.com/in/felipe-piva-8646232ab/)
 [Felipe](https://github.com/Felipepiv)
