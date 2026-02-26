@@ -25,7 +25,10 @@ Projeto criado na aula da disciplina de programação Front-End, na Unicesumar, 
 - git commit -m = usado para registrar mudanças no seu projeto
 - git push = usado para enviar o conteúdo de um repositório local para um repositório remoto
 
+
+
 ### Autor
 
-(https://www.linkedin.com/in/felipe-piva-8646232ab/)
-[Felipe](https://github.com/Felipepiv)
+-(https://www.linkedin.com/in/felipe-piva-8646232ab/)
+
+-[Felipe](https://github.com/Felipepiv)
